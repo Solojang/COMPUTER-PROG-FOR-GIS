@@ -1,4 +1,4 @@
-*** Tutorial of process Raster with python***
+***Tutorial of process Raster with python***
 
 **This is a basic tutorial about how to process Raster fiel(tiff).**
 **in this tutorial, I will demostrate how to plot grah and chart by using Python code.**
@@ -13,12 +13,3 @@ The categories of this data is: **Forest, Non Forest Natural  Formation, Farming
 
 in this repo [data](https://github.com/Solojang/COMPUTER-PROG-FOR-GIS/tree/main/data). I did some preprocessing for the raw data. 
 **If you want to download data yourself, remember to preprocess the data.**
-
-
-**First, import data**
-to import data, try this code on colab
-'''
-from osgeo import gdal
-from google.colab import files
-uploaded = files.upload()
-'''
