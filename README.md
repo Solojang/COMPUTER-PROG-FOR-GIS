@@ -1,7 +1,16 @@
+**These Tutorial is based on the ongoing project "Summarizing time-series land cover change using Mapbiomas data" with Mapbiomas and Prof. pontius** 
+**this is some part works we have done for these project**
+**if you are interesting in this program, you can contact us by**
+
+AiZhang@clarku.com
+Jianhe@clarku.edu
+
+
 ***Tutorial of process Raster with python***
 
-**This is a basic tutorial about how to process Raster fiel(tiff).**
-**in this tutorial, I will demostrate how to plot grah and chart by using Python code.**
+**This is a tutorial about how to process Raster fiel(tiff).**
+*In the tutorial, I will demostrate how to plot grah and chart by using Python code.**
+**In the presentation, I will 
 
 Before we get start, remenber to download the hard data in this repo [data](https://github.com/Solojang/COMPUTER-PROG-FOR-GIS/tree/main/data).
 The raw data was download from [mapbiosmas](https://mapbiomas.org/download).
