@@ -12,4 +12,4 @@ The categories of this data is: **Forest, Non Forest Natural  Formation, Farming
 **Notice the study area is not a big area, because we do not want make runtime problems.**
 
 in this repo [data](https://github.com/Solojang/COMPUTER-PROG-FOR-GIS/tree/main/data). I did some preprocessing for the raw data. 
-**If you want to download data yourself, remember to preprocess the data.**
+**If you want to download data yourself, remember to preprocess the data first.**
