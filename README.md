@@ -9,9 +9,9 @@ Jianhe@clarku.edu
 
 ***Tutorial of process Raster with python***
 
-**This is a tutorial about how to process Raster fiel(tiff).**
-*In the tutorial, I will demostrate how to plot grah and chart by using Python code.**
-**In the presentation, I will 
+**This is a tutorial about how to process Raster file(tiff).**
+
+Also trying to explain why we need to create these graph, and the meaning of each graph.
 
 Before we get start, remenber to download the hard data in this repo [data](https://github.com/Solojang/COMPUTER-PROG-FOR-GIS/tree/main/data).
 The raw data was download from [mapbiosmas](https://mapbiomas.org/download).
