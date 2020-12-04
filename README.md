@@ -6,9 +6,6 @@ AiZhang@clarku.com
 
 Jianhe@clarku.edu
 
-
-***Tutorial of process Raster with python***
-
 **This is a tutorial about how to process Raster file(tiff).**
 
 Also trying to explain why we need to create these graph, and the meaning of each graph.
